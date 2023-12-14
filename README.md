@@ -45,7 +45,7 @@ To get started with the project, follow these steps:
 
 1. React: The project is built using the React library for building user interfaces.
 
-2. TailwindCSS: The project is styled using TailwindCSS. If you dont konw how to install Taiilwind check out their official [Documentation](https://tailwindcss.com/)
+2. TailwindCSS: The project is styled using TailwindCSS. If you don't know how to install Taiilwind check out their official [Documentation](https://tailwindcss.com/)
 
 ## Contributing
 
